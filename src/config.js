@@ -1,3 +1,3 @@
 export default {
-  backend: 'http://localhost:5072'
+  backend: process.env.BACKEND
 }
